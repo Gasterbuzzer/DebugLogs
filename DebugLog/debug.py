@@ -2,7 +2,7 @@
 Debug File
 """
 
-__version__ = "dev"
+__version__ = "0.0.1"
 
 
 def hello_world() -> None:
