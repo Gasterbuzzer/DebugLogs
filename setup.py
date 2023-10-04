@@ -7,12 +7,12 @@ from setuptools import setup, find_packages
 from DebugLog import __version__
 
 setup(
-    name="debuglog",
+    name="debuglogs",
     version=__version__,
 
     description='A package for easy colored debug logs.',
 
-    url="https://github.com/Gasterbuzzer/DebugLog",
+    url="https://github.com/Gasterbuzzer/DebugLogs",
     author="Gasterbuzzer",
 
     packages=find_packages(),
