@@ -4,7 +4,7 @@ Setup for Package
 
 from setuptools import setup, find_packages
 
-from DebugLog import __version__
+from DebugLogs import __version__
 
 setup(
     name="debuglogs",
