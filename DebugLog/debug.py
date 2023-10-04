@@ -2,8 +2,6 @@
 Debug File
 """
 
-__version__ = "0.0.1"
-
 
 def add(x: int, y: int) -> int:
     """
