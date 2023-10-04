@@ -2,7 +2,7 @@
 Setup for Package
 """
 
-from setuptools import setup
+from setuptools import setup, find_packages
 
 from DebugLog.debug import __version__
 
@@ -13,5 +13,5 @@ setup(
     url="https://github.com/Gasterbuzzer/DebugLog",
     author="Gasterbuzzer",
 
-    py_modules=['DebugLog'],
+    packages=find_packages(),
 )

@@ -5,8 +5,11 @@ Debug File
 __version__ = "0.0.1"
 
 
-def hello_world() -> None:
+def add(x: int, y: int) -> int:
     """
-    Hello World Function
+    Adds Numbers
+    :param x: X
+    :param y: Y
+    :return: X+Y
     """
-    print("This is my first pip package!")
+    return x + y
