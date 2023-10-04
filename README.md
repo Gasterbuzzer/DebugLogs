@@ -1,2 +1,2 @@
 # DebugLog
- Debug Log Pacakge for Python
+ Debug Log Package for Python
